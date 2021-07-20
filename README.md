@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diyor Garipov</h1>
-<h3 align="center">Hello everyone, I'm a beginner front-end developer.</h3>
+<h3 align="center">I'm a beginner front-end developer.</h3>
 
 - 🌱 I’m currently learning **JavaScript and React Framework**
 
